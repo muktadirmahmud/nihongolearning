@@ -1,0 +1,19 @@
+{
+  "name": "Kotoba — Japanese Study",
+  "short_name": "Kotoba",
+  "description": "An offline-ready personal Japanese vocabulary study app.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f2",
+  "theme_color": "#f5f6f2",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
